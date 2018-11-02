@@ -1,0 +1,12 @@
+{
+"URL":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+"deposit1": 2000,
+"withdrawl1":2000,
+
+Manager{
+"fname":custF1,
+"lname":custL1,
+"pcode":111111
+}
+
+}
